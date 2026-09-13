@@ -127,8 +127,8 @@ mvn test
 | Member | Role | GitHub Username |
 |---|---|---|
 | Member 1 | Core logic — CSV reading, revenue calculation, report generation | Bineth-Tharana |
-| Member 2 | File I/O, unit testing, SOLID principles | *(add username)* |
-| Member 3 | Console interface, exception handling, documentation | *(add username)* |
+| Member 2 | File I/O, unit testing, SOLID principles | SHIRANHASHIDU |
+| Member 3 | Console interface, exception handling, documentation | thamosha-dilhara |
 
 ## License
 
